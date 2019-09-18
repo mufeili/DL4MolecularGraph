@@ -55,3 +55,9 @@ Generative Models
 
 Retrosynthesis
 ==============
+
+`Planning chemical syntheses with deep neural networks and symbolic AI
+<https://www.nature.com/articles/nature25978>`_
+    | :author:`Marwin H. S. Segler, Mike Preuss, Mark P. Waller`
+    | :venue:`Nature 555`
+    | :keyword:`ECFP4, Monte Carlo tree search, MDP`
