@@ -2,7 +2,7 @@ Deep Learning for Molecular Graphs
 **********************************
 
 This is a paper list of deep learning on molecular graphs. This is inspired by the
-[Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph) project.
+`Literature of Deep Learning for Graphs <https://github.com/DeepGraphLearning/LiteratureDL4Graph>`_ project.
 
 .. contents::
     :local:
