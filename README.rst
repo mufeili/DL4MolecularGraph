@@ -1,7 +1,7 @@
 Deep Learning for Molecular Graphs
 **********************************
 
-This is a paper list of deep learning on molecular graphs. This is inspired by the
+This is a paper list of deep learning on molecular graphs, inspired by the
 `Literature of Deep Learning for Graphs <https://github.com/DeepGraphLearning/LiteratureDL4Graph>`_ project.
 
 .. contents::
@@ -35,8 +35,17 @@ Property Prediction
 Generative Models
 -----------------
 
-> Nathan Brown, Marco Fiscato, Marwin H.S. Segler, Alain C. Vaucher  
-**Journal of Chemical Information and Modeling, 2019, 59, 3** 
+`GuacaMol: Benchmarking Models for De Novo Molecular Design
+<https://arxiv.org/abs/1811.09621>`_
+    | :author:`Nathan Brown, Marco Fiscato, Marwin H.S. Segler, Alain C. Vaucher`
+    | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 3`
+    | :keyword:`ChEMBL, public datasets, evaluation metrics, baseline results`
+
+`Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models
+<https://arxiv.org/abs/1811.12823>`_
+    | :author:`Daniil Polykovskiy, Alexander Zhebrak, Benjamin Sanchez-Lengeling, Sergey Golovanov, Oktai Tatanov, Stanislav Belyaev, Rauf Kurbanov, Aleksey Artamonov, Vladimir Aladinskiy, Mark Veselov, Artur Kadurin, Sergey Nikolenko, Alan Aspuru-Guzik, Alex Zhavoronkov`
+    | :venue:`arXiv 1811`
+    | :keyword:`ZINC, public datasets, evaluation metrics, baseline results`
 
 Property Prediction
 ===================
