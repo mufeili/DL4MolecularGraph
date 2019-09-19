@@ -20,6 +20,8 @@ This is inspired by the
 
 .. role:: keyword(emphasis)
 
+.. role:: website(emphasis)
+
 Review
 ======
 
