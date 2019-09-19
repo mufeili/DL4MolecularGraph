@@ -19,6 +19,12 @@ This is inspired by the
 Review
 ======
 
+`The Rise of Deep Learning in Drug Discovery
+<https://www.ncbi.nlm.nih.gov/pubmed/29366762>`_
+    | `Hongming Chen, Ola Engkvist, Yinhai Wang, Marcus Olivecrona, Thomas Blaschke`
+    | :venue:`Drug Discov Today, 2018, 23, 6`
+    | `property and activity prediction, de novo design, reaction prediction, retrosynthetic analysis, ligand–protein interactions, biological imaging analysis`
+
 Benchmark and Dataset
 =====================
 
