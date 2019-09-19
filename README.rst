@@ -18,8 +18,6 @@ This is inspired by the
 
 .. role:: venue(strong)
 
-.. role:: website(emphasis)
-
 .. role:: keyword(emphasis)
 
 Review
@@ -35,8 +33,8 @@ Property Prediction
 <https://arxiv.org/abs/1703.00564>`_
     | :author:`Zhenqin Wu, Bharath Ramsundar, Evan N. Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh S. Pappu, Karl Leswing, Vijay Pande`
     | :venue:`Journal of Chemical Sciences, 2018, 9`
-    | :website: `Website <http://moleculenet.ai/>`_
     | :keyword:`public datasets, evaluation metrics, baseline results`
+    | `Website <http://moleculenet.ai/>`_
 
 Generative Models
 -----------------
