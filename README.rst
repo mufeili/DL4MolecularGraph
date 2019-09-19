@@ -78,6 +78,13 @@ Property Prediction
     | :venue:`Journal of Computer-Aided Molecular Design, 2016, 30, 8`
     | `graph neural networks`
 
+`Convolutional Embedding of Attributed Molecular Graphs for Physical Property Prediction
+<https://pubs.acs.org/doi/10.1021/acs.jcim.6b00601>`_
+    | `Connor W. Coley, Regina Barzilay, William H. Green, Tommi S. Jaakkola, Klavs F. Jensen`
+    | :venue:`Journal of Chemical Information and Modeling, 2017, 57, 8`
+    | `graph neural networks`
+    | `Github <https://github.com/connorcoley/conv_qsar_fast>`_
+
 Generative Models
 =================
 
