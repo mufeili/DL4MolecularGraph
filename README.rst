@@ -35,14 +35,14 @@ Property Prediction
 <https://arxiv.org/abs/1703.00564>`_
     | `Zhenqin Wu, Bharath Ramsundar, Evan N. Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh S. Pappu, Karl Leswing, Vijay Pande`
     | :venue:`Journal of Chemical Sciences, 2018, 9`
-    | `public datasets, evaluation metrics, baseline results, quantum chemistry, physical chemistry, biophysics, physiology`
+    | `public datasets, evaluation metrics, baseline results, quantum mechanics, physical chemistry, biophysics, physiology`
     | `Website <http://moleculenet.ai/>`_
 
 `Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models
 <https://arxiv.org/abs/1906.09427>`_
     | `Guangyong Chen, Pengfei Chen, Chang-Yu Hsieh, Chee-Kong Lee, Benben Liao, Renjie Liao, Weiwen Liu, Jiezhong Qiu, Qiming Sun, Jie Tang, Richard Zemel, Shengyu Zhang`
     | :venue:`arXiv 1906`
-    | `public datasets, baseline results, quantum chemistry`
+    | `public datasets, baseline results, quantum mechanics`
     | `Website <https://alchemy.tencent.com/>`_
 
 Generative Models
@@ -88,20 +88,20 @@ Property Prediction
 <https://www.nature.com/articles/ncomms13890>`_
     | `Kristof T. Schütt, Farhad Arbabzadah, Stefan Chmiela, Klaus R. Müller, Alexandre Tkatchenko`
     | :venue:`Nature Communications 8`
-    | `graph neural networks, quantum chemistry`
+    | `graph neural networks, quantum mechanics`
 
 `Neural Message Passing for Quantum Chemistry
 <https://arxiv.org/abs/1704.01212>`_
     | `Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl`
     | :venue:`ICML 2017`
-    | `graph neural networks, quantum chemistry`
+    | `graph neural networks, quantum mechanics`
     | `Github <https://github.com/brain-research/mpnn>`_
 
 `SchNet: A continuous-filter convolutional neural network for modeling quantum interactions
 <https://arxiv.org/abs/1706.08566>`_
     | `Kristof T. Schütt, Pieter-Jan Kindermans, Huziel E. Sauceda, Stefan Chmiela, Alexandre Tkatchenko, Klaus-Robert Müller`
     | :venue:`arXiv 1706`
-    | `graph neural networks, quantum chemistry`
+    | `graph neural networks, quantum mechanics`
     | `Github <https://github.com/atomistic-machine-learning/schnetpack>`_
 
 `Learning Graph-Level Representation for Drug Discovery
@@ -117,6 +117,27 @@ Property Prediction
     | :venue:`Journal of Chemical Information and Modeling, 2017, 57, 8`
     | `graph neural networks`
     | `Github <https://github.com/connorcoley/conv_qsar_fast>`_
+
+`Analyzing Learned Molecular Representations for Property Prediction
+<https://arxiv.org/abs/1904.01561v4>`_
+    | `Kevin Yang, Kyle Swanson, Wengong Jin, Connor Coley, Philipp Eiden, Hua Gao, Angel Guzman-Perez, Timothy Hopper, Brian Kelley, Miriam Mathea, Andrew Palmer, Volker Settels, Tommi Jaakkola, Klavs Jensen, Regina Barzilay`
+    | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 8`
+    | `graph neural networks, benchmark results, quantum mechanics, physical chemistry, biophysics, physiology`
+    | `Github <https://github.com/swansonk14/chemprop#requirements>`_
+
+`Molecule Property Prediction Based on Spatial Graph Embedding
+<https://pubs.acs.org/doi/10.1021/acs.jcim.9b00410>`_
+    | `Xiaofeng Wang, Zhen Li, Mingjian Jiang, Shuang Wang, Shugang Zhang, Zhiqiang Wei`
+    | :venue:`Journal of Chemical Information and Modeling, 2019`
+    | `graph neural networks`
+    | `Github <https://github.com/wxfsd/C-SGEN>`_
+
+`DeepChemStable: Chemical Stability Prediction with an Attention-Based Graph Convolution Network
+<https://pubs.acs.org/doi/10.1021/acs.jcim.8b00672>`_
+    | `Xiuming Li, Xin Yan, Qiong Gu, Huihao Zhou, Di Wu, Jun Xu`
+    | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 3`
+    | `graph neural networks`
+    | `Github <https://github.com/MingCPU/DeepChemStable>`_
 
 Generative Models
 =================
