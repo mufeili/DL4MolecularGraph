@@ -124,6 +124,12 @@ Discriminative Models
     | `graph neural networks`
     | `Github <https://github.com/ZJULearning/graph_level_drug_discovery>`_
 
+`Prediction Errors of Molecular Machine Learning Models Lower than Hybrid DFT Error
+<https://pubs.acs.org/doi/abs/10.1021%2Facs.jctc.7b00577>`_
+    | `Felix A. Faber, Luke Hutchison, Bing Huang, Justin Gilmer, Samuel S. Schoenholz, George E. Dahl, Oriol Vinyals, Steven Kearnes, Patrick F. Riley, O. Anatole von Lilienfeld`
+    | :venue:`Journal of Chemical Theory and Computation 2017, 13, 11`
+    | `graph neural networks, benchmark results`
+
 `Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network
 <https://arxiv.org/abs/1709.04555>`_
     | `Wengong Jin, Connor W. Coley, Regina Barzilay, Tommi Jaakkola`
@@ -165,11 +171,23 @@ Discriminative Models
     | `graph neural networks, polypharmacy side effect, interaction prediction, multi-relation`
     | `Github <https://github.com/marinkaz/decagon>`_
 
+`BayesGrad: Explaining Predictions of Graph Convolutional Networks
+<https://arxiv.org/abs/1807.01985>`_
+    | `Hirotaka Akita, Kosuke Nakago, Tomoki Komatsu, Yohei Sugawara, Shin-ichi Maeda, Yukino Baba, Hisashi Kashima`
+    | :venue:`arXiv 1807`
+    | `graph neural networks, interpretability`
+
 `Graph Convolutional Neural Networks for Predicting Drug-Target Interactions
 <https://www.biorxiv.org/content/10.1101/473074v1>`_
     | `Wen Torng, Russ B. Altman`
     | :venue:`bioRXiv`
     | `graph neural networks, auto encoders, interaction prediction`
+
+`A graph-convolutional neural network model for the prediction of chemical reactivity
+<https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC04228D#!divAbstract>`_
+    | `Connor W. Coley, Wengong Jin, Luke Rogers, Timothy F. Jamison, Tommi S. Jaakkola, William H. Green, Regina Barzilay, Klavs F. Jensen`
+    | :venue:`Chemical Science, 2019, 10`
+    | `graph neural networks, reaction prediction`
 
 `Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences
 <https://academic.oup.com/bioinformatics/article/35/2/309/5050020>`_
@@ -177,6 +195,26 @@ Discriminative Models
     | :venue:`Bioinformatics, Volume 35, Issue 2, 15 January 2019`
     | `graph neural networks, interaction prediction`
     | `Github <https://github.com/masashitsubaki/CPI_prediction>`_
+
+`Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks in Molecular Graph Analysis
+<https://arxiv.org/abs/1902.01020>`_
+    | `Katsuhiko Ishiguro, Shin-ichi Maeda, Masanori Koyama`
+    | :venue:`arXiv 1902`
+    | `graph neural networks`
+    | `Github <https://github.com/pfnet-research/chainer-chemistry>`_
+
+`Functional Transparency for Structured Data: a Game-Theoretic Approach
+<https://arxiv.org/abs/1902.09737>`_
+    | `Guang-He Lee, Wengong Jin, David Alvarez-Melis, Tommi S. Jaakkola`
+    | :venue:`ICML 2019`
+    | `graph neural networks, interpretability, transparency, decision trees`
+
+`Interpretable Deep Learning in Drug Discovery
+<https://arxiv.org/abs/1903.02788>`_
+    | `Kristina Preuer, Günter Klambauer, Friedrich Rippmann, Sepp Hochreiter, Thomas Unterthiner`
+    | :venue:`arXiv 1903`
+    | `graph neural networks, interpretability`
+    | `Github <https://github.com/bioinf-jku/interpretable_ml_drug_discovery>`_
 
 `Analyzing Learned Molecular Representations for Property Prediction
 <https://arxiv.org/abs/1904.01561v4>`_
@@ -216,6 +254,12 @@ Discriminative Models
     | `Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec`
     | :venue:`arXiv 1905`
     | `graph neural networks, pre-training, self-supervised learning`
+
+`Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective
+<https://arxiv.org/pdf/1906.11081.pdf>`_
+    | `Chengqiang Lu, Qi Liu, Chao Wang, Zhenya Huang, Peize Lin, Lixin He`
+    | :venue:`AAAI 2019`
+    | `graph neural networks, quantum mechanics`
 
 Generative Models
 =================
