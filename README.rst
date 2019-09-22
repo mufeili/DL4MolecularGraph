@@ -97,6 +97,12 @@ Property Prediction
     | `graph neural networks, quantum mechanics`
     | `Github <https://github.com/brain-research/mpnn>`_
 
+`Deep Learning Based Regression and Multi-class Models for Acute Oral Toxicity Prediction with Automatic Chemical Feature Extraction
+<https://arxiv.org/abs/1704.04718v3>`_
+    | `Youjun Xu, Jianfeng Pei, Luhua Lai`
+    | :venue:`Journal of Chemical Information and Modeling 2017, 57, 11`
+    | `graph neural networks`
+
 `SchNet: A continuous-filter convolutional neural network for modeling quantum interactions
 <https://arxiv.org/abs/1706.08566>`_
     | `Kristof T. Schütt, Pieter-Jan Kindermans, Huziel E. Sauceda, Stefan Chmiela, Alexandre Tkatchenko, Klaus-Robert Müller`
@@ -118,12 +124,25 @@ Property Prediction
     | `graph neural networks`
     | `Github <https://github.com/connorcoley/conv_qsar_fast>`_
 
+`Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences
+<https://academic.oup.com/bioinformatics/article/35/2/309/5050020>`_
+    | `Masashi Tsubaki, Kentaro Tomii, Jun Sese`
+    | :venue:`Bioinformatics, Volume 35, Issue 2, 15 January 2019`
+    | `graph neural networks, interaction prediction`
+    | `Github <https://github.com/masashitsubaki/CPI_prediction>`_
+
 `Analyzing Learned Molecular Representations for Property Prediction
 <https://arxiv.org/abs/1904.01561v4>`_
     | `Kevin Yang, Kyle Swanson, Wengong Jin, Connor Coley, Philipp Eiden, Hua Gao, Angel Guzman-Perez, Timothy Hopper, Brian Kelley, Miriam Mathea, Andrew Palmer, Volker Settels, Tommi Jaakkola, Klavs Jensen, Regina Barzilay`
     | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 8`
     | `graph neural networks, benchmark results, quantum mechanics, physical chemistry, biophysics, physiology`
     | `Github <https://github.com/swansonk14/chemprop#requirements>`_
+
+`Predicting Drug–Target Interaction Using a Novel Graph Neural Network with 3D Structure-Embedded Graph Representation
+<https://pubs.acs.org/doi/10.1021/acs.jcim.9b00387>`_
+    | `Jaechang Lim, Seongok Ryu, Kyubyong Park, Yo Joong Choe, Jiyeon Ham, Woo Youn Kim`
+    | :venue:`Journal of Chemical Information and Modeling, 2019`
+    | `graph neural networks, interaction prediction, 3D information`
 
 `Molecule Property Prediction Based on Spatial Graph Embedding
 <https://pubs.acs.org/doi/10.1021/acs.jcim.9b00410>`_
