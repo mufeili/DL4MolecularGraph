@@ -124,6 +124,13 @@ Property Prediction
     | `graph neural networks`
     | `Github <https://github.com/connorcoley/conv_qsar_fast>`_
 
+`Deeply Learning Molecular Structure-property Relationships Using Attention and Gate-augmented Graph Convolutional Network
+<https://arxiv.org/abs/1805.10988>`_
+    | `Seongok Ryu, Jaechang Lim, Seung Hwan Hong, Woo Youn Kim`
+    | :venue:`arXiv 1805`
+    | `graph neural networks`
+    | `Github <https://github.com/SeongokRyu/augmented-GCN>`_
+
 `Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences
 <https://academic.oup.com/bioinformatics/article/35/2/309/5050020>`_
     | `Masashi Tsubaki, Kentaro Tomii, Jun Sese`
