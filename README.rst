@@ -28,21 +28,21 @@ Review
 Benchmark and Dataset
 =====================
 
-Property Prediction
--------------------
+Discriminative Models
+---------------------
 
 `MoleculeNet: A Benchmark for Molecular Machine Learning
 <https://arxiv.org/abs/1703.00564>`_
     | `Zhenqin Wu, Bharath Ramsundar, Evan N. Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh S. Pappu, Karl Leswing, Vijay Pande`
     | :venue:`Journal of Chemical Sciences, 2018, 9`
-    | `public datasets, evaluation metrics, baseline results, quantum mechanics, physical chemistry, biophysics, physiology`
+    | `property prediction, public datasets, evaluation metrics, baseline results, quantum mechanics, physical chemistry, biophysics, physiology`
     | `Website <http://moleculenet.ai/>`_
 
 `Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models
 <https://arxiv.org/abs/1906.09427>`_
     | `Guangyong Chen, Pengfei Chen, Chang-Yu Hsieh, Chee-Kong Lee, Benben Liao, Renjie Liao, Weiwen Liu, Jiezhong Qiu, Qiming Sun, Jie Tang, Richard Zemel, Shengyu Zhang`
     | :venue:`arXiv 1906`
-    | `public datasets, baseline results, quantum mechanics`
+    | `property prediction, public datasets, baseline results, quantum mechanics`
     | `Website <https://alchemy.tencent.com/>`_
 
 Generative Models
@@ -62,8 +62,8 @@ Generative Models
     | `ZINC, public datasets, evaluation metrics, baseline results, distribution-learning`
     | `Github <https://github.com/molecularsets/moses>`_
 
-Property Prediction
-===================
+Discriminative Models
+=====================
 
 `Convolutional Networks on Graphs for Learning Molecular Fingerprints
 <https://arxiv.org/abs/1509.09292>`_
