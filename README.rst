@@ -103,6 +103,13 @@ Property Prediction
     | :venue:`Journal of Chemical Information and Modeling 2017, 57, 11`
     | `graph neural networks`
 
+`Deriving Neural Architectures from Sequence and Graph Kernels
+<https://arxiv.org/abs/1705.09037>`_
+    | `Tao Lei, Wengong Jin, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`ICML 2017`
+    | `graph neural networks`
+    | `Github <https://github.com/taolei87/icml17_knn>`_
+
 `SchNet: A continuous-filter convolutional neural network for modeling quantum interactions
 <https://arxiv.org/abs/1706.08566>`_
     | `Kristof T. Schütt, Pieter-Jan Kindermans, Huziel E. Sauceda, Stefan Chmiela, Alexandre Tkatchenko, Klaus-Robert Müller`
@@ -117,6 +124,13 @@ Property Prediction
     | `graph neural networks`
     | `Github <https://github.com/ZJULearning/graph_level_drug_discovery>`_
 
+`Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network
+<https://arxiv.org/abs/1709.04555>`_
+    | `Wengong Jin, Connor W. Coley, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`NeurIPS 2017`
+    | `graph neural networks, reaction prediction`
+    | `Github <https://github.com/wengong-jin/nips17-rexgen>`_
+
 `Convolutional Embedding of Attributed Molecular Graphs for Physical Property Prediction
 <https://pubs.acs.org/doi/10.1021/acs.jcim.6b00601>`_
     | `Connor W. Coley, Regina Barzilay, William H. Green, Tommi S. Jaakkola, Klavs F. Jensen`
@@ -124,12 +138,31 @@ Property Prediction
     | `graph neural networks`
     | `Github <https://github.com/connorcoley/conv_qsar_fast>`_
 
+`PotentialNet for Molecular Property Prediction
+<https://pubs.acs.org/doi/full/10.1021/acscentsci.8b00507>`_
+    | `Evan N. Feinberg, Debnil Sur, Zhenqin Wu, Brooke E. Husic, Huanghao Mai, Yang Li, Saisai Sun, Jianyi Yang, Bharath Ramsundar, Vijay S. Pande`
+    | :venue:`ACS Central Science 2018, 4, 11`
+    | `graph neural networks, protein-ligand binding affinity, metric`
+
 `Deeply Learning Molecular Structure-property Relationships Using Attention and Gate-augmented Graph Convolutional Network
 <https://arxiv.org/abs/1805.10988>`_
     | `Seongok Ryu, Jaechang Lim, Seung Hwan Hong, Woo Youn Kim`
     | :venue:`arXiv 1805`
     | `graph neural networks`
     | `Github <https://github.com/SeongokRyu/augmented-GCN>`_
+
+`Modeling polypharmacy side effects with graph convolutional networks
+<https://academic.oup.com/bioinformatics/article/34/13/i457/5045770>`_
+    | `Marinka Zitnik, Monica Agrawal, Jure Leskovec`
+    | :venue:`Bioinformatics, Volume 34, Issue 13, 01 July 2018`
+    | `graph neural networks, polypharmacy side effect, interaction prediction, multi-relation`
+    | `Github <https://github.com/marinkaz/decagon>`_
+
+`Graph Convolutional Neural Networks for Predicting Drug-Target Interactions
+<https://www.biorxiv.org/content/10.1101/473074v1>`_
+    | `Wen Torng, Russ B. Altman`
+    | :venue:`bioRXiv`
+    | `graph neural networks, auto encoders, interaction prediction`
 
 `Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences
 <https://academic.oup.com/bioinformatics/article/35/2/309/5050020>`_
@@ -144,6 +177,12 @@ Property Prediction
     | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 8`
     | `graph neural networks, benchmark results, quantum mechanics, physical chemistry, biophysics, physiology`
     | `Github <https://github.com/swansonk14/chemprop#requirements>`_
+
+`A Bayesian Graph Convolutional Network for Reliable Prediction of Molecular Properties with Uncertainty Quantification
+<https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01992h#!divAbstract>`_
+    | `Seongok Ryu, Yongchan Kwon, Woo Youn Kim`
+    | :venue:`Chemical Science, 2019, 36`
+    | `graph neural networks, Bayesian inference, uncertainty`
 
 `Predicting Drug–Target Interaction Using a Novel Graph Neural Network with 3D Structure-Embedded Graph Representation
 <https://pubs.acs.org/doi/10.1021/acs.jcim.9b00387>`_
@@ -164,6 +203,12 @@ Property Prediction
     | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 3`
     | `graph neural networks`
     | `Github <https://github.com/MingCPU/DeepChemStable>`_
+
+`Pre-training Graph Neural Networks
+<https://arxiv.org/abs/1905.12265>`_
+    | `Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec`
+    | :venue:`arXiv 1905`
+    | `graph neural networks, pre-training, self-supervised learning`
 
 Generative Models
 =================
