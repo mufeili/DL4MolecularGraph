@@ -35,14 +35,14 @@ Property Prediction
 <https://arxiv.org/abs/1703.00564>`_
     | `Zhenqin Wu, Bharath Ramsundar, Evan N. Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh S. Pappu, Karl Leswing, Vijay Pande`
     | :venue:`Journal of Chemical Sciences, 2018, 9`
-    | `public datasets, evaluation metrics, baseline results, quantum mechanics, physical chemistry, biophysics, physiology`
+    | `public datasets, evaluation metrics, baseline results, quantum chemistry, physical chemistry, biophysics, physiology`
     | `Website <http://moleculenet.ai/>`_
 
 `Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models
 <https://arxiv.org/abs/1906.09427>`_
     | `Guangyong Chen, Pengfei Chen, Chang-Yu Hsieh, Chee-Kong Lee, Benben Liao, Renjie Liao, Weiwen Liu, Jiezhong Qiu, Qiming Sun, Jie Tang, Richard Zemel, Shengyu Zhang`
     | :venue:`arXiv 1906`
-    | `public datasets, baseline results, quantum mechanics`
+    | `public datasets, baseline results, quantum chemistry`
     | `Website <https://alchemy.tencent.com/>`_
 
 Generative Models
@@ -77,6 +77,39 @@ Property Prediction
     | `Steven Kearnes, Kevin McCloskey, Marc Berndl, Vijay Pande, Patrick Riley`
     | :venue:`Journal of Computer-Aided Molecular Design, 2016, 30, 8`
     | `graph neural networks`
+
+`Low Data Drug Discovery with One-shot Learning
+<https://arxiv.org/abs/1611.03199>`_
+    | `Han Altae-Tran, Bharath Ramsundar, Aneesh S. Pappu, Vijay Pande`
+    | :venue:`ACS Central Science, 2017, 3, 4`
+    | `graph neural networks, one-shot learning`
+
+`Quantum-chemical Insights from Deep Tensor Neural Networks
+<https://www.nature.com/articles/ncomms13890>`_
+    | `Kristof T. Schütt, Farhad Arbabzadah, Stefan Chmiela, Klaus R. Müller, Alexandre Tkatchenko`
+    | :venue:`Nature Communications 8`
+    | `graph neural networks, quantum chemistry`
+
+`Neural Message Passing for Quantum Chemistry
+<https://arxiv.org/abs/1704.01212>`_
+    | `Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl`
+    | :venue:`ICML 2017`
+    | `graph neural networks, quantum chemistry`
+    | `Github <https://github.com/brain-research/mpnn>`_
+
+`SchNet: A continuous-filter convolutional neural network for modeling quantum interactions
+<https://arxiv.org/abs/1706.08566>`_
+    | `Kristof T. Schütt, Pieter-Jan Kindermans, Huziel E. Sauceda, Stefan Chmiela, Alexandre Tkatchenko, Klaus-Robert Müller`
+    | :venue:`arXiv 1706`
+    | `graph neural networks, quantum chemistry`
+    | `Github <https://github.com/atomistic-machine-learning/schnetpack>`_
+
+`Learning Graph-Level Representation for Drug Discovery
+<https://arxiv.org/pdf/1709.03741.pdf>`_
+    | `Junying Li, Deng Cai, Xiaofei He`
+    | :venue:`arXiv 1709`
+    | `graph neural networks`
+    | `Github <https://github.com/ZJULearning/graph_level_drug_discovery>`_
 
 `Convolutional Embedding of Attributed Molecular Graphs for Physical Property Prediction
 <https://pubs.acs.org/doi/10.1021/acs.jcim.6b00601>`_
