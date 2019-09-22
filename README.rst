@@ -131,6 +131,13 @@ Discriminative Models
     | `graph neural networks, reaction prediction`
     | `Github <https://github.com/wengong-jin/nips17-rexgen>`_
 
+`Protein Interface Prediction using Graph Convolutional Networks
+<https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks>`_
+    | `Alex Fout, Jonathon Byrd, Basir Shariat, Asa Ben-Hur`
+    | :venue:`NeurIPS 2017`
+    | `graph neural networks, protein interface prediction`
+    | `Github <https://github.com/fouticus/pipgcn>`_
+
 `Convolutional Embedding of Attributed Molecular Graphs for Physical Property Prediction
 <https://pubs.acs.org/doi/10.1021/acs.jcim.6b00601>`_
     | `Connor W. Coley, Regina Barzilay, William H. Green, Tommi S. Jaakkola, Klavs F. Jensen`
