@@ -25,6 +25,12 @@ Review
     | :venue:`Drug Discov Today, 2018, 23, 6`
     | `property and activity prediction, de novo design, reaction prediction, retrosynthetic analysis, ligand–protein interactions, biological imaging analysis`
 
+`Applications of Machine Learning in Drug Discovery and Development
+<https://www.nature.com/articles/s41573-019-0024-5>`_
+    | `Jessica Vamathevan, Dominic Clark, Paul Czodrowski, Ian Dunham, Edgardo Ferran, George Lee, Bin Li, Anant Madabhushi, Parantu Shah, Michaela Spitzer, Shanrong Zhao`
+    | :venue:`Nature Reviews Drug Discovery 18`
+    | `target identification, molecule optimization, biomarker discovery, computational pathology`
+
 Benchmark and Dataset
 =====================
 
