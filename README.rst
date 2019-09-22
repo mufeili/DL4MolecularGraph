@@ -168,7 +168,7 @@ Discriminative Models
 <https://academic.oup.com/bioinformatics/article/34/13/i457/5045770>`_
     | `Marinka Zitnik, Monica Agrawal, Jure Leskovec`
     | :venue:`Bioinformatics, Volume 34, Issue 13, 01 July 2018`
-    | `graph neural networks, polypharmacy side effect, interaction prediction, multi-relation`
+    | `graph neural networks, polypharmacy side effects, interaction prediction, multi-relation`
     | `Github <https://github.com/marinkaz/decagon>`_
 
 `BayesGrad: Explaining Predictions of Graph Convolutional Networks
@@ -223,6 +223,12 @@ Discriminative Models
     | `graph neural networks, benchmark results, quantum mechanics, physical chemistry, biophysics, physiology`
     | `Github <https://github.com/swansonk14/chemprop#requirements>`_
 
+`Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals
+<https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294>`_
+    | `Chi Chen, Weike Ye, Yunxing Zuo, Chen Zheng, Shyue Ping Ong`
+    | :venue:`Chemistry of Materials, 2019, 31, 9`
+    | `graph neural networks, transfer learning`
+
 `A Bayesian Graph Convolutional Network for Reliable Prediction of Molecular Properties with Uncertainty Quantification
 <https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01992h#!divAbstract>`_
     | `Seongok Ryu, Yongchan Kwon, Woo Youn Kim`
@@ -248,6 +254,12 @@ Discriminative Models
     | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 3`
     | `graph neural networks`
     | `Github <https://github.com/MingCPU/DeepChemStable>`_
+
+`Drug-Drug Adverse Effect Prediction with Graph Co-Attention
+<https://arxiv.org/abs/1905.00534>`_
+    | `Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang`
+    | :venue:`arXiv 1905`
+    | `graph neural networks, polypharmacy side effects`
 
 `Pre-training Graph Neural Networks
 <https://arxiv.org/abs/1905.12265>`_
