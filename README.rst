@@ -291,6 +291,12 @@ Discriminative Models
     | :venue:`arXiv 1905`
     | `graph neural networks, pre-training, self-supervised learning`
 
+`Graph Normalizing Flows
+<https://arxiv.org/abs/1905.13177>`_
+    | `Jenny Liu, Aviral Kumar, Jimmy Ba, Jamie Kiros, Kevin Swersky`
+    | :venue:`NeurIPS 2019`
+    | `graph neural networks, invertible model, flow model, AE, QM9`
+
 `Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective
 <https://arxiv.org/pdf/1906.11081.pdf>`_
     | `Chengqiang Lu, Qi Liu, Chao Wang, Zhenya Huang, Peize Lin, Lixin He`
@@ -367,6 +373,13 @@ Generative Models
     | :venue:`NeurIPS 2018`
     | `ConvNet, DeconvNet, non-autoregressive, distribution learning, QM9, ZINC`
 
+`Molecular Hypergraph Grammar with Its Application to Molecular Optimization
+<https://arxiv.org/abs/1809.02745>`_
+    | `Hiroshi Kajino`
+    | :venue:`ICML 2019`
+    | `grammar, VAE, hypergraph, goal-directed optimization`
+    | `Github <https://github.com/ibm-research-tokyo/graph_grammar>`_
+
 `Multi-objective de novo drug design with conditional graph generative model
 <https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0287-6>`_
     | `Yibo Li, Liangren Zhang, Zhenming Liu`
@@ -386,6 +399,19 @@ Generative Models
     | :venue:`ICLR 2019`
     | `graph neural networks, VAE, WGAN, goal-directed optimization, ZINC`
     | `Github <https://github.com/wengong-jin/iclr19-graph2graph>`_
+
+`A Generative Model For Electron Paths
+<https://arxiv.org/abs/1805.10970>`_
+    | `John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, José Miguel Hernández-Lobato`
+    | :venue:`ICLR 2019`
+    | `graph neural networks, chemical reaction prediction, RL, MDP`
+    | `Github <https://github.com/john-bradshaw/electro>`_
+
+`Graph Transformation Policy Network for Chemical Reaction Prediction
+<https://arxiv.org/abs/1812.09441>`_
+    | `Kien Do, Truyen Tran, Svetha Venkatesh`
+    | :venue:`KDD 2019`
+    | `graph neural networks, chemical reaction prediction`
 
 `Mol-CycleGAN - a generative model for molecular optimization
 <https://arxiv.org/abs/1902.02119>`_
@@ -424,6 +450,12 @@ Generative Models
     | `Jaechang Lim, Sang-Yeon Hwang, Seungsu Kim, Seokhyun Moon, Woo Youn Kim`
     | :venue:`arXiv 1905`
     | `graph neural networks, scaffold, VAE, conditional generation, goal-directed optimization`
+
+`A Model to Search for Synthesizable Molecules
+<https://arxiv.org/abs/1906.05221>`_
+    | `John Bradshaw, Brooks Paige, Matt J. Kusner, Marwin H. S. Segler, José Miguel Hernández-Lobato`
+    | :venue:`arXiv 1906`
+    | `graph neural networks, reaction prediction, distribution learning, goal-directed optimization, retrosynthesis`
 
 `Multi-resolution Autoregressive Graph-to-Graph Translation for Molecules
 <https://arxiv.org/abs/1907.11223>`_
