@@ -169,6 +169,12 @@ Discriminative Models
     | :venue:`ACS Central Science 2018, 4, 11`
     | `graph neural networks, protein-ligand binding affinity, metric`
 
+`Chemi-net: a graph convolutional network for accurate drug property prediction
+<https://arxiv.org/abs/1803.06236>`_
+    | `Ke Liu, Xiangyan Sun, Lei Jia, Jun Ma, Haoming Xing, Junqiu Wu, Hua Gao, Yax Sun, Florian Boulnois, Jie Fan`
+    | :venue:`arXiv 1803`
+    | `graph neural networks`
+
 `Deeply Learning Molecular Structure-property Relationships Using Attention and Gate-augmented Graph Convolutional Network
 <https://arxiv.org/abs/1805.10988>`_
     | `Seongok Ryu, Jaechang Lim, Seung Hwan Hong, Woo Youn Kim`
@@ -405,6 +411,13 @@ Generative Models
     | `Sebastian Pölsterl, Christian Wachinger`
     | :venue:`arXiv 1905`
     | `graph neural networks, distribution learning, GAN, multi-graph, gumbel-softmax, QM9`
+
+`GraphNVP: An Invertible Flow Model for Generating Molecular Graphs
+<https://arxiv.org/abs/1905.11600>`_
+    | `Kaushalya Madhawa, Katushiko Ishiguro, Kosuke Nakago, Motoki Abe`
+    | :venue:`arXiv 1905`
+    | `graph neural networks, invertible model, flow model, distribution learning, goal-directed optimization, QM9, ZINC`
+    | `Github <https://github.com/pfnet-research/graph-nvp>`_
 
 `Scaffold-based molecular design using graph generative model
 <https://arxiv.org/abs/1905.13639>`_
