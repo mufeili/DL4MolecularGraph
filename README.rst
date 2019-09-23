@@ -308,6 +308,13 @@ Generative Models
     | `graph neural networks, VAE, goal-directed optimization, ZINC`
     | `Github <https://github.com/wengong-jin/icml18-jtnn>`_
 
+`NEVAE: A Deep Generative Model for Molecular Graphs
+<https://arxiv.org/abs/1802.05283>`_
+    | `Bidisha Samanta, Abir De, Gourhari Jana, Pratim Kumar Chattaraj, Niloy Ganguly, Manuel Gomez-Rodriguez`
+    | :venue:`AAAI 2019`
+    | `graph neural networks, VAE, distribution learning, goal-directed optimization, ZINC, QM9`
+    | `Github <https://github.com/Networks-Learning/nevae>`_
+
 `Learning Deep Generative Models of Graphs
 <https://arxiv.org/abs/1803.03324>`_
     | `Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, Peter Battaglia`
@@ -335,6 +342,25 @@ Generative Models
     | `graph neural networks, RL, GAN, MDP, goal-directed optimization, property targeting, ZINC`
     | `Github <https://github.com/bowenliu16/rl_graph_generation>`_
 
+`Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders
+<https://arxiv.org/abs/1809.02630>`_
+    | `Tengfei Ma, Jie Chen, Cao Xiao`
+    | :venue:`NeurIPS 2018`
+    | `ConvNet, DeconvNet, non-autoregressive, distribution learning, QM9, ZINC`
+
+`Multi-objective de novo drug design with conditional graph generative model
+<https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0287-6>`_
+    | `Yibo Li, Liangren Zhang, Zhenming Liu`
+    | :venue:`Journal of Cheminformatics, 10`
+    | `graph neural networks, distribution-learning, auto-regressive, conditional generation, ChEMBL`
+    | `Github <https://github.com/kevinid/molecule_generator>`_
+
+`DEFactor: Differentiable Edge Factorization-based Probabilistic Graph Generation
+<https://arxiv.org/abs/1811.09766>`_
+    | `Rim Assouel, Mohamed Ahmed, Marwin H Segler, Amir Saffari, Yoshua Bengio`
+    | :venue:`arXiv 1811`
+    | `graph neural networks, auto-regressive, goal-directed optimization, GAN, conditional generation, ZINC`
+
 `Learning Multimodal Graph-to-Graph Translation for Molecular Optimization
 <https://arxiv.org/abs/1812.01070>`_
     | `Wengong Jin, Kevin Yang, Regina Barzilay, Tommi Jaakkola`
@@ -347,3 +373,10 @@ Generative Models
     | `Wengong Jin, Regina Barzilay, Tommi Jaakkola`
     | :venue:`arXiv 1907`
     | `graph neural networks, goal-directed optimization, autoregressive, hierarchical, VAE, ZINC`
+
+`Optimization of Molecules via Deep Reinforcement Learning
+<https://www.nature.com/articles/s41598-019-47148-x>`_
+    | `Zhenpeng Zhou, Steven Kearnes, Li Li, Richard N. Zare, Patrick Riley`
+    | :venue:`Scientific Reports 9`
+    | `MDP, DQN, learning from scratch, autoregressive, goal-directed optimization`
+    | `Github <https://github.com/google-research/google-research/tree/master/mol_dqn>`_
