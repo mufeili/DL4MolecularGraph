@@ -325,7 +325,7 @@ Generative Models
 <https://arxiv.org/abs/1805.09076>`_
     | `Qi Liu, Miltiadis Allamanis, Marc Brockschmidt, Alexander L. Gaunt`
     | :venue:`NeurIPS 2018`
-    | `graph neural networks, autoregressive, VAE`
+    | `graph neural networks, distribution-learning, goal-directed optimization, autoregressive, VAE, QM9, ZINC, CEPDB`
     | `Github <https://github.com/microsoft/constrained-graph-variational-autoencoder>`_
 
 `Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
