@@ -368,6 +368,30 @@ Generative Models
     | `graph neural networks, VAE, WGAN, goal-directed optimization, ZINC`
     | `Github <https://github.com/wengong-jin/iclr19-graph2graph>`_
 
+`Mol-CycleGAN - a generative model for molecular optimization
+<https://arxiv.org/abs/1902.02119>`_
+    | `Łukasz Maziarka, Agnieszka Pocha, Jan Kaczmarczyk, Krzysztof Rataj, Michał Warchoł`
+    | :venue:`arXiv 1902`
+    | `graph neural networks, CycleGAN, goal-directed optimization`
+
+`Decoding Molecular Graph Embeddings with Reinforcement Learning
+<https://arxiv.org/abs/1904.08915#>`_
+    | `Steven Kearnes, Li Li, Patrick Riley`
+    | :venue:`arXiv 1904`
+    | `graph neural networks, goal-directed optimization, MDP, VAE, QM9`
+
+`Likelihood-Free Inference and Generation of Molecular Graphs
+<https://arxiv.org/abs/1905.10310>`_
+    | `Sebastian Pölsterl, Christian Wachinger`
+    | :venue:`arXiv 1905`
+    | `graph neural networks, distribution learning, GAN, multi-graph, gumbel-softmax, QM9`
+
+`Scaffold-based molecular design using graph generative model
+<https://arxiv.org/abs/1905.13639>`_
+    | `Jaechang Lim, Sang-Yeon Hwang, Seungsu Kim, Seokhyun Moon, Woo Youn Kim`
+    | :venue:`arXiv 1905`
+    | `graph neural networks, scaffold, VAE, conditional generation, goal-directed optimization`
+
 `Multi-resolution Autoregressive Graph-to-Graph Translation for Molecules
 <https://arxiv.org/abs/1907.11223>`_
     | `Wengong Jin, Regina Barzilay, Tommi Jaakkola`
