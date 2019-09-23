@@ -31,6 +31,12 @@ Review
     | :venue:`Nature Reviews Drug Discovery 18`
     | `target identification, molecule optimization, biomarker discovery, computational pathology`
 
+`Generative Models for Automatic Chemical Design
+<https://arxiv.org/abs/1907.01632>`_
+    | `Daniel Schwalbe-Koda, Rafael Gómez-Bombarelli`
+    | :venue:`arXiv 1907`
+    | `inverse design, generative models, prospects, challenges`
+
 Benchmark and Dataset
 =====================
 
@@ -342,6 +348,13 @@ Generative Models
     | `graph neural networks, RL, GAN, MDP, goal-directed optimization, property targeting, ZINC`
     | `Github <https://github.com/bowenliu16/rl_graph_generation>`_
 
+`Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery
+<https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00234>`_
+    | `Kristina Preuer, Philipp Renz, Thomas Unterthiner, Sepp Hochreiter, Günter Klambauer`
+    | :venue:`Journal of Chemical Information and Modeling 2018, 58, 9`
+    | `evaluation metric`
+    | `Github <https://github.com/bioinf-jku/FCD>`_
+
 `Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders
 <https://arxiv.org/abs/1809.02630>`_
     | `Tengfei Ma, Jie Chen, Cao Xiao`
@@ -373,6 +386,13 @@ Generative Models
     | `Łukasz Maziarka, Agnieszka Pocha, Jan Kaczmarczyk, Krzysztof Rataj, Michał Warchoł`
     | :venue:`arXiv 1902`
     | `graph neural networks, CycleGAN, goal-directed optimization`
+
+`Molecular geometry prediction using a deep generative graph neural network
+<https://arxiv.org/abs/1904.00314>`_
+    | `Elman Mansimov, Omar Mahmood, Seokho Kang, Kyunghyun Cho`
+    | :venue:`arXiv 1904`
+    | `graph neural networks, VAE, molecular conformation generation, energy function, conditional generation, QM9, COD, CSD`
+    | `Github <https://github.com/nyu-dl/dl4chem-geometry>`_
 
 `Decoding Molecular Graph Embeddings with Reinforcement Learning
 <https://arxiv.org/abs/1904.08915#>`_
