@@ -2,7 +2,7 @@ Deep Learning for Molecular Graphs
 **********************************
 
 This is a paper list of deep learning on molecular graphs from both the ML community and the computational chemistry
-community.-
+community.
 
 This is inspired by the
 `Literature of Deep Learning for Graphs <https://github.com/DeepGraphLearning/LiteratureDL4Graph>`_ project.
@@ -170,6 +170,12 @@ Discriminative Models
     | `graph neural networks`
     | `Github <https://github.com/SeongokRyu/augmented-GCN>`_
 
+`Neural Message Passing with Edge Updates for Predicting Properties of Molecules and Materials
+<https://arxiv.org/abs/1806.03146>`_
+    | `Peter Bjørn Jørgensen, Karsten Wedel Jacobsen, Mikkel N. Schmidt`
+    | :venue:`arXiv 1806`
+    | `graph neural networks`
+
 `Modeling polypharmacy side effects with graph convolutional networks
 <https://academic.oup.com/bioinformatics/article/34/13/i457/5045770>`_
     | `Marinka Zitnik, Monica Agrawal, Jure Leskovec`
@@ -279,31 +285,65 @@ Discriminative Models
     | :venue:`AAAI 2019`
     | `graph neural networks, quantum mechanics`
 
+`Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism
+<https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.9b00959>`_
+    | `Zhaoping Xiong, Dingyan Wang, Xiaohong Liu, Feisheng Zhong, Xiaozhe Wan, Xutong Li, Zhaojun Li, Xiaomin Luo, Kaixian Chen, Hualiang Jiang, Mingyue Zheng`
+    | :venue:`Journal of Medicinal Chemistry 2019`
+    | `graph neural networks, interpretability`
+    | `Github <https://github.com/OpenDrugAI/AttentiveFP>`_
+
 Generative Models
 =================
+
+`GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders
+<https://arxiv.org/abs/1802.03480>`_
+    | `Martin Simonovsky, Nikos Komodakis`
+    | :venue:`arXiv 1802`
+    | `graph neural networks, VAE, non-autoregressive, conditional generation, distribution-learning, QM9, ZINC`
 
 `Junction Tree Variational Autoencoder for Molecular Graph Generation
 <https://arxiv.org/abs/1802.04364>`_
     | `Wengong Jin, Regina Barzilay, Tommi Jaakkola`
     | :venue:`ICML 2018`
-    | `graph neural networks, VAE, goal-directed optimization`
+    | `graph neural networks, VAE, goal-directed optimization, ZINC`
     | `Github <https://github.com/wengong-jin/icml18-jtnn>`_
 
 `Learning Deep Generative Models of Graphs
 <https://arxiv.org/abs/1803.03324>`_
     | `Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, Peter Battaglia`
     | :venue:`arXiv 1803`
-    | `graph neural networks, distribution learning, autoregressive, conditional generation`
+    | `graph neural networks, distribution learning, autoregressive, conditional generation, ChEMBL, ZINC`
+
+`MolGAN: An implicit generative model for small molecular graphs
+<https://arxiv.org/abs/1805.11973>`_
+    | `Nicola De Cao, Thomas Kipf`
+    | :venue:`arXiv 1805`
+    | `graph neural networks, goal-directed optimization, non-autoregressive, RL, GAN, QM9`
+    | `Github <https://github.com/nicola-decao/MolGAN>`_
+
+`Constrained Graph Variational Autoencoders for Molecule Design
+<https://arxiv.org/abs/1805.09076>`_
+    | `Qi Liu, Miltiadis Allamanis, Marc Brockschmidt, Alexander L. Gaunt`
+    | :venue:`NeurIPS 2018`
+    | `graph neural networks, autoregressive, VAE`
+    | `Github <https://github.com/microsoft/constrained-graph-variational-autoencoder>`_
 
 `Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
 <https://arxiv.org/abs/1806.02473>`_
     | `Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec`
     | :venue:`NeurIPS 2018`
-    | `graph neural networks, RL, GAN, MDP, goal-directed optimization, property targeting`
+    | `graph neural networks, RL, GAN, MDP, goal-directed optimization, property targeting, ZINC`
     | `Github <https://github.com/bowenliu16/rl_graph_generation>`_
+
+`Learning Multimodal Graph-to-Graph Translation for Molecular Optimization
+<https://arxiv.org/abs/1812.01070>`_
+    | `Wengong Jin, Kevin Yang, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`ICLR 2019`
+    | `graph neural networks, VAE, WGAN, goal-directed optimization, ZINC`
+    | `Github <https://github.com/wengong-jin/iclr19-graph2graph>`_
 
 `Multi-resolution Autoregressive Graph-to-Graph Translation for Molecules
 <https://arxiv.org/abs/1907.11223>`_
     | `Wengong Jin, Regina Barzilay, Tommi Jaakkola`
     | :venue:`arXiv 1907`
-    | `graph neural networks, goal-directed optimization, autoregressive, hierarchical, VAE`
+    | `graph neural networks, goal-directed optimization, autoregressive, hierarchical, VAE, ZINC`
