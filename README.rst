@@ -454,8 +454,15 @@ Generative Models
 `A Model to Search for Synthesizable Molecules
 <https://arxiv.org/abs/1906.05221>`_
     | `John Bradshaw, Brooks Paige, Matt J. Kusner, Marwin H. S. Segler, José Miguel Hernández-Lobato`
-    | :venue:`arXiv 1906`
+    | :venue:`NeurIPS 2019`
     | `graph neural networks, reaction prediction, distribution learning, goal-directed optimization, retrosynthesis`
+
+`Discrete Object Generation with Reversible Inductive Construction
+<https://arxiv.org/abs/1907.08268>`_
+    | `Ari Seff, Wenda Zhou, Farhan Damani, Abigail Doyle, Ryan P. Adams`
+    | :venue:`arXiv 1907`
+    | `graph neural networks, distribution learning, Markov kernel, auto-regressive`
+    | `Github <https://github.com/PrincetonLIPS/reversible-inductive-construction>`_
 
 `Multi-resolution Autoregressive Graph-to-Graph Translation for Molecules
 <https://arxiv.org/abs/1907.11223>`_
