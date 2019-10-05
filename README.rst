@@ -252,6 +252,7 @@ Discriminative Models
     | `Chi Chen, Weike Ye, Yunxing Zuo, Chen Zheng, Shyue Ping Ong`
     | :venue:`Chemistry of Materials, 2019, 31, 9`
     | `graph neural networks, transfer learning`
+    | `Github <https://github.com/materialsvirtuallab/megnet>`_
 
 `A Bayesian Graph Convolutional Network for Reliable Prediction of Molecular Properties with Uncertainty Quantification
 <https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01992h#!divAbstract>`_
@@ -289,7 +290,7 @@ Discriminative Models
 <https://arxiv.org/abs/1905.12265>`_
     | `Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec`
     | :venue:`arXiv 1905`
-    | `graph neural networks, pre-training, self-supervised learning`
+    | `graph neural networks, pre-training, self-supervised learning, protein function prediction, molecular property prediction`
 
 `Graph Normalizing Flows
 <https://arxiv.org/abs/1905.13177>`_
@@ -309,6 +310,12 @@ Discriminative Models
     | :venue:`Journal of Medicinal Chemistry 2019`
     | `graph neural networks, interpretability`
     | `Github <https://github.com/OpenDrugAI/AttentiveFP>`_
+
+`Structure-Based Function Prediction using Graph Convolutional Networks
+<https://www.biorxiv.org/content/10.1101/786236v1>`_
+    | `Vladimir Gligorijevic, P. Douglas Renfrew, Tomasz Kosciolek, Julia Koehler Leman, Kyunghyun Cho, Tommi Vatanen, Daniel Berenberg, Bryn Taylor, Ian M. Fisk, Ramnik J. Xavier, Rob Knight, Richard Bonneau`
+    | :venue:`bioRXiv`
+    | `graph neural networks, protein function prediction, Protein Data Bank, pre-trained language model, Bi-LSTM, interpretability`
 
 Generative Models
 =================
