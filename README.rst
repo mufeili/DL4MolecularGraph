@@ -31,6 +31,12 @@ Review
     | :venue:`Nature Reviews Drug Discovery 18`
     | `target identification, molecule optimization, biomarker discovery, computational pathology`
 
+`Deep learning for molecular design—a review of the state of the art
+<https://pubs.rsc.org/en/content/articlelanding/2019/ME/C9ME00039A#!divAbstract>`_
+    | `Daniel C. Elton, Zois Boukouvalas, Mark D. Fuge, Peter W. Chunga`
+    | :venue:`Molecular Systems Design & Engineering, 2019, 4`
+    | `molecular representation, deep learning architectures, evaluation, prospective and future directions`
+
 `Generative Models for Automatic Chemical Design
 <https://arxiv.org/abs/1907.01632>`_
     | `Daniel Schwalbe-Koda, Rafael Gómez-Bombarelli`
