@@ -1,7 +1,7 @@
-Deep Learning for Molecular Graphs
-**********************************
+Deep Learning for Graphs in Chemistry
+*************************************
 
-This is a paper list of deep learning on molecular graphs from both the ML community and the computational chemistry
+This is a paper list of deep learning on graphs in Chemistry from both the ML community and the computational chemistry
 community.
 
 This is inspired by the
@@ -24,6 +24,12 @@ Review
     | `Hongming Chen, Ola Engkvist, Yinhai Wang, Marcus Olivecrona, Thomas Blaschke`
     | :venue:`Drug Discov Today, 2018, 23, 6`
     | `property and activity prediction, de novo design, reaction prediction, retrosynthetic analysis, ligand–protein interactions, biological imaging analysis`
+
+`Opportunities and obstacles for deep learning in biology and medicine
+<https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0387>`_
+    | `Travers Ching, Daniel S. Himmelstein, Brett K. Beaulieu-Jones, Alexandr A. Kalinin, Brian T. Do, Gregory P. Way, Enrico Ferrero, Paul-Michael Agapow, Michael Zietz, Michael M. Hoffman, Wei Xie, Gail L. Rosen, Benjamin J. Lengerich, Johnny Israeli, Jack Lanchantin, Stephen Woloszynek, Anne E. Carpenter, Avanti Shrikumar, Jinbo Xu, Evan M. Cofer, Christopher A. Lavender, Srinivas C. Turaga, Amr M. Alexandari, Zhiyong Lu, David J. Harris, Dave DeCaprio, Yanjun Qi, Anshul Kundaje, Yifan Peng, Laura K. Wiley, Marwin H. S. Segler, Simina M. Boca, S. Joshua Swamidass, Austin Huang, Anthony Gitter and Casey S. Greene`
+    | :venue:`Journal of the Royal Society Interface, 2018, Volume 15, Issue 141`
+    | `Protein-protein interaction networks and graph analysis, Chemical featurization and representation learning`
 
 `Applications of Machine Learning in Drug Discovery and Development
 <https://www.nature.com/articles/s41573-019-0024-5>`_
@@ -155,7 +161,7 @@ Discriminative Models
     | `graph neural networks, reaction prediction`
     | `Github <https://github.com/wengong-jin/nips17-rexgen>`_
 
-`Protein Interface Prediction using Graph Convolutional Networks
+`Protein Interface Prediction Using Graph Convolutional Networks
 <https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks>`_
     | `Alex Fout, Jonathon Byrd, Basir Shariat, Asa Ben-Hur`
     | :venue:`NeurIPS 2017`
@@ -266,7 +272,7 @@ Discriminative Models
     | :venue:`Chemical Science, 2019, 36`
     | `graph neural networks, Bayesian inference, uncertainty`
 
-`Predicting Drug–Target Interaction Using a Novel Graph Neural Network with 3D Structure-Embedded Graph Representation
+`Predicting Drug-Target Interaction Using a Novel Graph Neural Network with 3D Structure-Embedded Graph Representation
 <https://pubs.acs.org/doi/10.1021/acs.jcim.9b00387>`_
     | `Jaechang Lim, Seongok Ryu, Kyubyong Park, Yo Joong Choe, Jiyeon Ham, Woo Youn Kim`
     | :venue:`Journal of Chemical Information and Modeling, 2019`
@@ -322,6 +328,11 @@ Discriminative Models
     | `Vladimir Gligorijevic, P. Douglas Renfrew, Tomasz Kosciolek, Julia Koehler Leman, Kyunghyun Cho, Tommi Vatanen, Daniel Berenberg, Bryn Taylor, Ian M. Fisk, Ramnik J. Xavier, Rob Knight, Richard Bonneau`
     | :venue:`bioRXiv`
     | `graph neural networks, protein function prediction, Protein Data Bank, pre-trained language model, Bi-LSTM, interpretability`
+
+`Molecule-Augmented Attention Transformer <https://grlearning.github.io/papers/105.pdf>`_
+    | `Łukasz Maziarka, Tomasz Danel, Sławomir Mucha, Krzysztof Rataj, Jacek Tabor, Stanisław Jastrz˛ebski`
+    | :venue:`Graph Representation Learning Workshop at NeurIPS 2019`
+    | `graph neural networks, property prediction`
 
 Generative Models
 =================
