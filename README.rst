@@ -219,7 +219,8 @@ Discriminative Models
     | :venue:`bioRXiv`
     | `graph neural networks, auto encoders, interaction prediction`
 
-`Three-Dimensionally Embedded Graph Convolutional Network (3DGCN) for Molecule Interpretation <https://arxiv.org/abs/1811.09794>`_
+`Three-Dimensionally Embedded Graph Convolutional Network (3DGCN) for Molecule Interpretation
+<https://arxiv.org/abs/1811.09794>`_
     | `Hyeoncheol Cho, Insung S. Choi`
     | :venue:`arXiv 1811`
     | `graph neural networks, property prediction, interpretability`
@@ -340,17 +341,20 @@ Discriminative Models
     | :venue:`bioRXiv`
     | `graph neural networks, protein function prediction, Protein Data Bank, pre-trained language model, Bi-LSTM, interpretability`
 
-`Molecule-Augmented Attention Transformer <https://grlearning.github.io/papers/105.pdf>`_
+`Molecule-Augmented Attention Transformer
+<https://grlearning.github.io/papers/105.pdf>`_
     | `Łukasz Maziarka, Tomasz Danel, Sławomir Mucha, Krzysztof Rataj, Jacek Tabor, Stanisław Jastrz˛ebski`
     | :venue:`Graph Representation Learning Workshop at NeurIPS 2019`
     | `graph neural networks, property prediction`
 
-`Learning Interaction Patterns from Surface Representations of Protein Structure <https://grlearning.github.io/papers/115.pdf>`_
+`Learning Interaction Patterns from Surface Representations of Protein Structure
+<https://grlearning.github.io/papers/115.pdf>`_
     | `Pablo Gainza, Freyr Sverrisson, Federico Monti, Emanuele Rodolà, Davide Boscaini, Michael Bronstein, Bruno E. Correia`
     | :venue:`Graph Representation Learning Workshop at NeurIPS 2019`
     | `graph neural networks, molecular surface, pocket similarity comparison, protein-protein interaction site prediction, prediction of interaction patterns`
 
-`Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules <https://arxiv.org/abs/1910.10685>`_
+`Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules
+<https://arxiv.org/abs/1910.10685>`_
     | `Benjamin Sanchez-Lengeling, Jennifer N Wei, Brian K Lee, Richard C Gerkin, Alán Aspuru-Guzik, and Alexander B Wiltschko`
     | :venue:`arXiv 1910`
     | `graph neural networks, property prediction, quantitative structure-odor relationship (QSOR) modeling, transfer learning`
