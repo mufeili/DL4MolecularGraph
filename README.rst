@@ -219,6 +219,11 @@ Discriminative Models
     | :venue:`bioRXiv`
     | `graph neural networks, auto encoders, interaction prediction`
 
+`Three-Dimensionally Embedded Graph Convolutional Network (3DGCN) for Molecule Interpretation <https://arxiv.org/abs/1811.09794>`_
+    | `Hyeoncheol Cho, Insung S. Choi`
+    | :venue:`arXiv 1811`
+    | `graph neural networks, property prediction, interpretability`
+
 `A graph-convolutional neural network model for the prediction of chemical reactivity
 <https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC04228D#!divAbstract>`_
     | `Connor W. Coley, Wengong Jin, Luke Rogers, Timothy F. Jamison, Tommi S. Jaakkola, William H. Green, Regina Barzilay, Klavs F. Jensen`
@@ -316,6 +321,12 @@ Discriminative Models
     | :venue:`AAAI 2019`
     | `graph neural networks, quantum mechanics`
 
+`Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction
+<https://pubs.acs.org/doi/full/10.1021/acscentsci.9b00576>`_
+    | `Philippe Schwaller, Teodoro Laino, Théophile Gaudin, Peter Bolgar, Christopher A. Hunter, Costas Bekas, Alpha A. Lee`
+    | :venue:`ACS Central Science 2019, 5, 9`
+    | `graph neural networks, reaction prediction, SMILES, machine translation`
+
 `Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism
 <https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.9b00959>`_
     | `Zhaoping Xiong, Dingyan Wang, Xiaohong Liu, Feisheng Zhong, Xiaozhe Wan, Xutong Li, Zhaojun Li, Xiaomin Luo, Kaixian Chen, Hualiang Jiang, Mingyue Zheng`
@@ -333,6 +344,16 @@ Discriminative Models
     | `Łukasz Maziarka, Tomasz Danel, Sławomir Mucha, Krzysztof Rataj, Jacek Tabor, Stanisław Jastrz˛ebski`
     | :venue:`Graph Representation Learning Workshop at NeurIPS 2019`
     | `graph neural networks, property prediction`
+
+`Learning Interaction Patterns from Surface Representations of Protein Structure <https://grlearning.github.io/papers/115.pdf>`_
+    | `Pablo Gainza, Freyr Sverrisson, Federico Monti, Emanuele Rodolà, Davide Boscaini, Michael Bronstein, Bruno E. Correia`
+    | :venue:`Graph Representation Learning Workshop at NeurIPS 2019`
+    | `graph neural networks, molecular surface, pocket similarity comparison, protein-protein interaction site prediction, prediction of interaction patterns`
+
+`Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules <https://arxiv.org/abs/1910.10685>`_
+    | `Benjamin Sanchez-Lengeling, Jennifer N Wei, Brian K Lee, Richard C Gerkin, Alán Aspuru-Guzik, and Alexander B Wiltschko`
+    | :venue:`arXiv 1910`
+    | `graph neural networks, property prediction, quantitative structure-odor relationship (QSOR) modeling, transfer learning`
 
 Generative Models
 =================
