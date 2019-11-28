@@ -114,6 +114,12 @@ Discriminative Models
     | :venue:`Nature Communications 8`
     | `graph neural networks, quantum mechanics`
 
+`Atomic Convolutional Networks for Predicting Protein-Ligand Binding Affinity
+<https://arxiv.org/abs/1703.10603>`_
+    | `Joseph Gomes, Bharath Ramsundar, Evan N. Feinberg, Vijay S. Pande`
+    | :venue:`arXiv 1703`
+    | `graph neural networks, protein-ligand binding affinity, PDBBind, nearest neighbor graphs`
+
 `Neural Message Passing for Quantum Chemistry
 <https://arxiv.org/abs/1704.01212>`_
     | `Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl`
