@@ -1,8 +1,7 @@
-Deep Learning for Graphs in Chemistry
-*************************************
+Deep Learning for Graphs in Chemistry and Biology
+*************************************************
 
-This is a paper list of deep learning on graphs in Chemistry from both the ML community and the computational chemistry
-community.
+This is a paper list of deep learning on graphs in chemistry and biology from ML community, chemistry community and biology community.
 
 This is inspired by the
 `Literature of Deep Learning for Graphs <https://github.com/DeepGraphLearning/LiteratureDL4Graph>`_ project.
