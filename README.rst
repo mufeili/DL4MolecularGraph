@@ -540,7 +540,7 @@ Generative Models
 `Discrete Object Generation with Reversible Inductive Construction
 <https://arxiv.org/abs/1907.08268>`_
     | `Ari Seff, Wenda Zhou, Farhan Damani, Abigail Doyle, Ryan P. Adams`
-    | :venue:`arXiv 1907`
+    | :venue:`NeurIPS 2019`
     | `graph neural networks, distribution learning, Markov kernel, auto-regressive`
     | `Github <https://github.com/PrincetonLIPS/reversible-inductive-construction>`_
 
