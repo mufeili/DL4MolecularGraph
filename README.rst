@@ -43,6 +43,12 @@ Review
     | :venue:`Molecular Systems Design & Engineering, 2019, 4`
     | `molecular representation, deep learning architectures, evaluation, prospective and future directions`
 
+`Graph convolutional networks for computational drug development and discovery
+<https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz042/5498046>`_
+    | `Mengying Sun, Sendong Zhao, Coryandar Gilvary, Olivier Elemento, Jiayu Zhou, Fei Wang`
+    | :venue:`Briefings in Bioinformatics, bbz042`
+    | `graph neural networks, QSAR, biological property and activity, quantum mechanical property, interaction prediction, ligand–protein (drug–target) interaction, protein-protein interaction, drug-drug interaction, synthesis prediction, de novo molecular design`
+
 `Generative Models for Automatic Chemical Design
 <https://arxiv.org/abs/1907.01632>`_
     | `Daniel Schwalbe-Koda, Rafael Gómez-Bombarelli`
@@ -303,6 +309,12 @@ Discriminative Models
     | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 3`
     | `graph neural networks`
     | `Github <https://github.com/MingCPU/DeepChemStable>`_
+
+`GNNExplainer: Generating Explanations for Graph Neural Networks
+<https://arxiv.org/abs/1903.03894>`_
+    | `Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec`
+    | :venue:`NeurIPS 2019`
+    | `graph neural networks, interpretability, information theory, node classification, link prediction, graph classification`
 
 `Drug-Drug Adverse Effect Prediction with Graph Co-Attention
 <https://arxiv.org/abs/1905.00534>`_
