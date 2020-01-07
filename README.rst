@@ -1,8 +1,7 @@
-Deep Learning for Graphs in Chemistry
-*************************************
+Deep Learning for Graphs in Chemistry and Biology
+*************************************************
 
-This is a paper list of deep learning on graphs in Chemistry from both the ML community and the computational chemistry
-community.
+This is a paper list of deep learning on graphs in chemistry and biology from ML community, chemistry community and biology community.
 
 This is inspired by the
 `Literature of Deep Learning for Graphs <https://github.com/DeepGraphLearning/LiteratureDL4Graph>`_ project.
@@ -242,6 +241,7 @@ Discriminative Models
     | `Connor W. Coley, Wengong Jin, Luke Rogers, Timothy F. Jamison, Tommi S. Jaakkola, William H. Green, Regina Barzilay, Klavs F. Jensen`
     | :venue:`Chemical Science, 2019, 10`
     | `graph neural networks, reaction prediction`
+    | `Github <https://github.com/connorcoley/rexgen_direct>`_
 
 `Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences
 <https://academic.oup.com/bioinformatics/article/35/2/309/5050020>`_
@@ -256,6 +256,13 @@ Discriminative Models
     | :venue:`arXiv 1902`
     | `graph neural networks`
     | `Github <https://github.com/pfnet-research/chainer-chemistry>`_
+
+`A Transformer Model for Retrosynthesis
+<https://chemrxiv.org/articles/A_Transformer_Model_for_Retrosynthesis/8058464>`_
+    | `Pavel Karpov, Guillaume Godin, Igor Tetko`
+    | :venue:`ChemRxiv`
+    | `graph neural networks, transformer, retrosynthesis, SMILES, USPTO`
+    | `Github <https://github.com/bigchem/retrosynthesis>`_
 
 `Functional Transparency for Structured Data: a Game-Theoretic Approach
 <https://arxiv.org/abs/1902.09737>`_
@@ -334,6 +341,12 @@ Discriminative Models
     | :venue:`NeurIPS 2019`
     | `graph neural networks, invertible model, flow model, AE, QM9`
 
+`Retrosynthesis Prediction with Conditional Graph Logic Network
+<https://papers.nips.cc/paper/9090-retrosynthesis-prediction-with-conditional-graph-logic-network>`_
+    | `Hanjun Dai, Chengtao Li, Connor W. Coley, Bo Dai, Le Song`
+    | :venue:`NeurIPS 2019`
+    | `graphical model, graph neural networks, retrosynthesis`
+
 `Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective
 <https://arxiv.org/pdf/1906.11081.pdf>`_
     | `Chengqiang Lu, Qi Liu, Chao Wang, Zhenya Huang, Peize Lin, Lixin He`
@@ -344,7 +357,13 @@ Discriminative Models
 <https://pubs.acs.org/doi/full/10.1021/acscentsci.9b00576>`_
     | `Philippe Schwaller, Teodoro Laino, Théophile Gaudin, Peter Bolgar, Christopher A. Hunter, Costas Bekas, Alpha A. Lee`
     | :venue:`ACS Central Science 2019, 5, 9`
-    | `graph neural networks, reaction prediction, SMILES, machine translation`
+    | `graph neural networks, reaction prediction, SMILES, machine translation, transformer`
+
+`Decomposing Retrosynthesis into Reactive Center Prediction and Molecule Generation
+<https://www.biorxiv.org/content/10.1101/677849v1.full>`_
+    | `Xianggen Liu, Pengyong Li, Sen Song`
+    | :venue:`bioRXiv`
+    | `retrosynthesis, GAT, attention, LSTM, USPTO`
 
 `Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism
 <https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.9b00959>`_
@@ -363,7 +382,7 @@ Discriminative Models
 <https://grlearning.github.io/papers/105.pdf>`_
     | `Łukasz Maziarka, Tomasz Danel, Sławomir Mucha, Krzysztof Rataj, Jacek Tabor, Stanisław Jastrz˛ebski`
     | :venue:`Graph Representation Learning Workshop at NeurIPS 2019`
-    | `graph neural networks, property prediction`
+    | `graph neural networks, property prediction, transformer`
 
 `Learning Interaction Patterns from Surface Representations of Protein Structure
 <https://grlearning.github.io/papers/115.pdf>`_
@@ -376,6 +395,12 @@ Discriminative Models
     | `Benjamin Sanchez-Lengeling, Jennifer N Wei, Brian K Lee, Richard C Gerkin, Alán Aspuru-Guzik, and Alexander B Wiltschko`
     | :venue:`arXiv 1910`
     | `graph neural networks, property prediction, quantitative structure-odor relationship (QSOR) modeling, transfer learning`
+
+`Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning
+<https://www.nature.com/articles/s41592-019-0666-6>`_
+    | `P. Gainza, F. Sverrisson, F. Monti, E. Rodol, D. Boscaini, M. M. Bronstein, B. E. Correia`
+    | :venue:`Nature Methods 2019`
+    | `graph neural networks, molecular surface interaction fingerprinting, geometric deep learning, protein pocket-ligand prediction, protein-protein interaction site prediction, ultrafast scanning of surfaces`
 
 Generative Models
 =================
@@ -527,7 +552,7 @@ Generative Models
 `Discrete Object Generation with Reversible Inductive Construction
 <https://arxiv.org/abs/1907.08268>`_
     | `Ari Seff, Wenda Zhou, Farhan Damani, Abigail Doyle, Ryan P. Adams`
-    | :venue:`arXiv 1907`
+    | :venue:`NeurIPS 2019`
     | `graph neural networks, distribution learning, Markov kernel, auto-regressive`
     | `Github <https://github.com/PrincetonLIPS/reversible-inductive-construction>`_
 
