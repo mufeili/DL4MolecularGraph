@@ -401,6 +401,12 @@ Discriminative Models
     | `P. Gainza, F. Sverrisson, F. Monti, E. Rodol, D. Boscaini, M. M. Bronstein, B. E. Correia`
     | :venue:`Nature Methods 2019`
     | `graph neural networks, molecular surface interaction fingerprinting, geometric deep learning, protein pocket-ligand prediction, protein-protein interaction site prediction, ultrafast scanning of surfaces`
+    
+`A Deep Learning Approach to Antibiotic Discovery
+<https://www.sciencedirect.com/science/article/pii/S0092867420301021>`_
+    | `Jonathan M. Stokes, Kevin Yang, Kyle Swanson, Wengong Jin, Andres Cubillos-Ruiz, Nina M.Donghia, Craig R. MacNair, Shawn French, Lindsey A. Carfrae, Zohar Bloom-Ackerman, Victoria M. Tran, Anush Chiappino-Pepe, Ahmed H. Badran, Ian W. Andrews, Emma J. Chory, George M. Church, Eric D. Brown, Tommi S. Jaakkola, Regina Barzilay, James J. Collins`
+    | :venue:`Cell`
+    | `property prediction, inhibition of Escherichia coli, D-MPNN, graph neural networks, antibiotic discovery, drug repurpose, ensemble`
 
 Generative Models
 =================
