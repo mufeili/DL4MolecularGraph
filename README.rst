@@ -562,6 +562,13 @@ Generative Models
     | `graph neural networks, distribution learning, Markov kernel, auto-regressive`
     | `Github <https://github.com/PrincetonLIPS/reversible-inductive-construction>`_
 
+`Generative models for graph-based protein design
+<https://papers.nips.cc/paper/9711-generative-models-for-graph-based-protein-design>`_
+    | `John Ingraham, Vikas Garg, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`NeurIPS 2019`
+    | `graph neural networks, autoregressive, protein design, Rosetta`
+    | `Github <https://github.com/jingraham/neurips19-graph-protein-design>`_
+
 `Multi-resolution Autoregressive Graph-to-Graph Translation for Molecules
 <https://arxiv.org/abs/1907.11223>`_
     | `Wengong Jin, Regina Barzilay, Tommi Jaakkola`
