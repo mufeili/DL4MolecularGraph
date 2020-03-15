@@ -281,7 +281,7 @@ Discriminative Models
 <https://arxiv.org/abs/1904.01561v4>`_
     | `Kevin Yang, Kyle Swanson, Wengong Jin, Connor Coley, Philipp Eiden, Hua Gao, Angel Guzman-Perez, Timothy Hopper, Brian Kelley, Miriam Mathea, Andrew Palmer, Volker Settels, Tommi Jaakkola, Klavs Jensen, Regina Barzilay`
     | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 8`
-    | `graph neural networks, benchmark results, quantum mechanics, physical chemistry, biophysics, physiology`
+    | `graph neural networks, benchmark results, quantum mechanics, physical chemistry, biophysics, physiology, directional message passing`
     | `Github <https://github.com/swansonk14/chemprop#requirements>`_
 
 `Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals
@@ -408,6 +408,13 @@ Discriminative Models
     | `Jonathan M. Stokes, Kevin Yang, Kyle Swanson, Wengong Jin, Andres Cubillos-Ruiz, Nina M.Donghia, Craig R. MacNair, Shawn French, Lindsey A. Carfrae, Zohar Bloom-Ackerman, Victoria M. Tran, Anush Chiappino-Pepe, Ahmed H. Badran, Ian W. Andrews, Emma J. Chory, George M. Church, Eric D. Brown, Tommi S. Jaakkola, Regina Barzilay, James J. Collins`
     | :venue:`Cell`
     | `property prediction, inhibition of Escherichia coli, D-MPNN, graph neural networks, antibiotic discovery, drug repurpose, ensemble`
+    
+`Directional Message Passing for Molecular Graphs
+<https://arxiv.org/abs/2003.03123>`_
+    | `Johannes Klicpera, Janek Groß, Stephan Günnemann`
+    | :venue:`ICLR 2020`
+    | `graph neural networks, directional message passing, spherical Bessel functions, spherical harmonics, MD17, QM9, DimeNet`
+    | `Github <https://github.com/klicperajo/dimenet>`_ 
 
 Generative Models
 =================
