@@ -296,6 +296,7 @@ Discriminative Models
     | `Seongok Ryu, Yongchan Kwon, Woo Youn Kim`
     | :venue:`Chemical Science, 2019, 36`
     | `graph neural networks, Bayesian inference, uncertainty`
+    | `Github <https://github.com/SeongokRyu/uq_molecule>`_
 
 `Predicting Drug-Target Interaction Using a Novel Graph Neural Network with 3D Structure-Embedded Graph Representation
 <https://pubs.acs.org/doi/10.1021/acs.jcim.9b00387>`_
