@@ -589,3 +589,9 @@ Generative Models
     | :venue:`Scientific Reports 9`
     | `MDP, DQN, learning from scratch, autoregressive, goal-directed optimization`
     | `Github <https://github.com/google-research/google-research/tree/master/mol_dqn>`_
+
+`A Graph to Graphs Framework for Retrosynthesis Prediction
+<https://arxiv.org/abs/2003.12725>`_
+    | `Chence Shi, Minkai Xu, Hongyu Guo, Ming Zhang, Jian Tang`
+    | :venue:`arXiv 2003`
+    | `graph neural networks, retrosynthesis, reaction center identification, USPTO, conditional generative models`
