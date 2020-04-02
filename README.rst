@@ -415,6 +415,17 @@ Discriminative Models
     | :venue:`ICLR 2020`
     | `graph neural networks, directional message passing, spherical Bessel functions, spherical harmonics, MD17, QM9, DimeNet`
     | `Github <https://github.com/klicperajo/dimenet>`_ 
+    
+`InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization  <https://openreview.net/forum?id=r1lfF2NYvH>`_
+    | `Fan-Yun Sun, Jordan Hoffman, Vikas Verma, Jian Tang`
+    | :venue:`ICLR 2020`
+    | `unsupervised learning, semi-supervised learning, information theory, graph representation learning, molecular property prediction`
+    
+`GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation 
+<https://openreview.net/forum?id=S1esMkHYPr>`_
+    | `Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang`
+    | :venue:`ICLR 2020`
+    | `flow-based model, autoregressive, reinforcement learning, molecular property optimization, constrained property optimization, distribution learning`
 
 Generative Models
 =================
