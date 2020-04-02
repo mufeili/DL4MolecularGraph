@@ -426,6 +426,12 @@ Discriminative Models
     | `Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang`
     | :venue:`ICLR 2020`
     | `flow-based model, autoregressive, reinforcement learning, molecular property optimization, constrained property optimization, distribution learning`
+    
+`Deep Learning of Activation Energies 
+<https://pubs.acs.org/doi/10.1021/acs.jpclett.0c00500>`_
+    | `Colin A. Grambow, Lagnajit Pattanaik, William H. Green`
+    | :venue:`The Journal of Physical Chemistry Letters, 2020, 11`
+    | `D-MPNN, molecular property prediction, reaction properties, template-free, activation energy`
 
 Generative Models
 =================
