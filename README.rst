@@ -186,6 +186,11 @@ Discriminative Models
     | `graph neural networks`
     | `Github <https://github.com/connorcoley/conv_qsar_fast>`_
 
+`Learning a Local-Variable Model of Aromatic and Conjugated Systems <https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00405#>`_
+    | `Matthew K. Matlock, Na Le Dang and S. Joshua Swamidass`
+    | :venue:`ACS Central Science, 2018, 4, 1`
+    | `graph neural networks, weave, wave, quantum chemistry, adversarial`
+
 `PotentialNet for Molecular Property Prediction
 <https://pubs.acs.org/doi/full/10.1021/acscentsci.8b00507>`_
     | `Evan N. Feinberg, Debnil Sur, Zhenqin Wu, Brooke E. Husic, Huanghao Mai, Yang Li, Saisai Sun, Jianyi Yang, Bharath Ramsundar, Vijay S. Pande`
