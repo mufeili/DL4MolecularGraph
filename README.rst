@@ -375,7 +375,7 @@ Discriminative Models
 <https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.9b00959>`_
     | `Zhaoping Xiong, Dingyan Wang, Xiaohong Liu, Feisheng Zhong, Xiaozhe Wan, Xutong Li, Zhaojun Li, Xiaomin Luo, Kaixian Chen, Hualiang Jiang, Mingyue Zheng`
     | :venue:`Journal of Medicinal Chemistry 2019`
-    | `graph neural networks, interpretability`
+    | `graph neural networks, interpretability, adversarial, attention`
     | `Github <https://github.com/OpenDrugAI/AttentiveFP>`_
 
 `Structure-Based Function Prediction using Graph Convolutional Networks
