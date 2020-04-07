@@ -612,6 +612,13 @@ Generative Models
     | `MDP, DQN, learning from scratch, autoregressive, goal-directed optimization`
     | `Github <https://github.com/google-research/google-research/tree/master/mol_dqn>`_
 
+`Hierarchical Generation of Molecular Graphs using Structural Motifs
+<https://arxiv.org/abs/2002.03230>`_
+    | `Wengong Jin, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`arXiv 2002`
+    | `graph neural networks, generative models, hierarchical, VAE, graph motifs, multi-resolution`
+    | `Github <https://github.com/wengong-jin/hgraph2graph>`_
+
 `A Graph to Graphs Framework for Retrosynthesis Prediction
 <https://arxiv.org/abs/2003.12725>`_
     | `Chence Shi, Minkai Xu, Hongyu Guo, Ming Zhang, Jian Tang`
