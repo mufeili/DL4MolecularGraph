@@ -248,6 +248,12 @@ Discriminative Models
     | `graph neural networks, reaction prediction`
     | `Github <https://github.com/connorcoley/rexgen_direct>`_
 
+`NeoDTI: neural integration of neighbor information from a heterogeneous network for discovering new drug–target interactions <https://academic.oup.com/bioinformatics/article/35/1/104/5047760>`_
+    | `Fangping Wan, Lixiang Hong, An Xiao, Tao Jiang, Jianyang Zeng`
+    | :venue:`Bioinformatics, Volume 35, Issue 1, 01 January 2019`
+    | `graph neural networks, drug–target interaction prediction`
+    | `Github <https://github.com/FangpingWan/NeoDTI>`_
+
 `Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences
 <https://academic.oup.com/bioinformatics/article/35/2/309/5050020>`_
     | `Masashi Tsubaki, Kentaro Tomii, Jun Sese`
