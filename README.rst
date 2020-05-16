@@ -444,6 +444,11 @@ Discriminative Models
     | :venue:`The Journal of Physical Chemistry Letters, 2020, 11`
     | `D-MPNN, molecular property prediction, reaction properties, template-free, activation energy`
 
+`Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning <https://www.nature.com/articles/s41592-019-0666-6>`_
+    | `P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein & B. E. Correia`
+    | :venue:`Nature Methods volume 17, 2020`
+    | `MaSIF (molecular surface interaction fingerprinting), geometric deep learning (GDL), protein-ligand interaction prediction, protein–protein interaction site prediction, protein–protein complex prediction`
+
 Generative Models
 =================
 
