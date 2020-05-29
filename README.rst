@@ -630,3 +630,9 @@ Generative Models
     | `Chence Shi, Minkai Xu, Hongyu Guo, Ming Zhang, Jian Tang`
     | :venue:`arXiv 2003`
     | `graph neural networks, retrosynthesis, reaction center identification, USPTO, conditional generative models`
+
+`Unsupervised Attention-Guided Atom-Mapping 
+<https://chemrxiv.org/articles/Unsupervised_Attention-Guided_Atom-Mapping/12298559>`_
+    | `Philippe Schwaller, Benjamin Hoover, Jean-Louis Reymond, Hendrik Strobelt, Teodoro Laino`
+    | :venue:`ChemRxiv`
+    | `graph neural networks, transformer, ALBERT, attention, atom mapping, self-supervised learning, reaction prediction, retrosynthesis, Hugging Face, masked language modeling`
