@@ -642,3 +642,9 @@ Generative Models
     | `Gregor N. C. Simm, Robert Pinsler, José Miguel Hernández-Lobato`
     | :venue:`ICML 2020`
     | `graph neural networks, SchNet, reinforcement learning (RL), 3D, quantum chemistry, Cartesian coordinates, actor-critic, proximal policy optimization (PPO)`
+    
+`Multi-Objective Molecule Generation using Interpretable Substructures 
+<https://arxiv.org/abs/2002.03244v2>`_
+    | `Wengong Jin, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`ICML 2020`
+    | `multi-objective optimization, rationales, graph neural networks, accuracy, diversity, novelty, substructures, Monte Carlo tree search, reinforcement learning (RL), policy gradient`
