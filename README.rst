@@ -654,3 +654,9 @@ Generative Models
     | `Gregor N. C. Simm, José Miguel Hernández-Lobato`
     | :venue:`ICML 2020`
     | `equilibrium states for many-body systems, molecular conformation, CVAE, mean maximum deviation distance, MPNN, multi-head attention, CONF17`
+
+`Improving Molecular Design by Stochastic Iterative Target Augmentation 
+<https://arxiv.org/abs/2002.04720>`_
+    | `Kevin Yang, Wengong Jin, Kyle Swanson, Regina Barzilay, Tommi Jaakkola`
+    | :venue:`ICML 2020`
+    | `self-training, property prediction model, data augmentation, iterative generation`
