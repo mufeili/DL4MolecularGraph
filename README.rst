@@ -648,3 +648,9 @@ Generative Models
     | `Wengong Jin, Regina Barzilay, Tommi Jaakkola`
     | :venue:`ICML 2020`
     | `multi-objective optimization, rationales, graph neural networks, accuracy, diversity, novelty, substructures, Monte Carlo tree search, reinforcement learning (RL), policy gradient`
+    
+`A Generative Model for Molecular Distance Geometry 
+<https://arxiv.org/abs/1909.11459>`_
+    | `Gregor N. C. Simm, José Miguel Hernández-Lobato`
+    | :venue:`ICML 2020`
+    | `equilibrium states for many-body systems, molecular conformation, CVAE, mean maximum deviation distance, MPNN, multi-head attention, CONF17`
