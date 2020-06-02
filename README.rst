@@ -621,7 +621,7 @@ Generative Models
 `Hierarchical Generation of Molecular Graphs using Structural Motifs
 <https://arxiv.org/abs/2002.03230>`_
     | `Wengong Jin, Regina Barzilay, Tommi Jaakkola`
-    | :venue:`arXiv 2002`
+    | :venue:`ICML 2020`
     | `graph neural networks, generative models, hierarchical, VAE, graph motifs, multi-resolution`
     | `Github <https://github.com/wengong-jin/hgraph2graph>`_
 
