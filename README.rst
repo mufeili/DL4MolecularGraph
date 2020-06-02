@@ -636,3 +636,9 @@ Generative Models
     | `Philippe Schwaller, Benjamin Hoover, Jean-Louis Reymond, Hendrik Strobelt, Teodoro Laino`
     | :venue:`ChemRxiv`
     | `graph neural networks, transformer, ALBERT, attention, atom mapping, self-supervised learning, reaction prediction, retrosynthesis, Hugging Face, masked language modeling`
+
+`Reinforcement Learning for Molecular Design Guided by Quantum Mechanics 
+<https://arxiv.org/abs/2002.07717>`_
+    | `Gregor N. C. Simm, Robert Pinsler, José Miguel Hernández-Lobato`
+    | :venue:`ICML 2020`
+    | `graph neural networks, SchNet, reinforcement learning (RL), 3D, quantum chemistry, Cartesian coordinates, actor-critic, proximal policy optimization (PPO)`
