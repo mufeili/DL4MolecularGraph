@@ -443,6 +443,12 @@ Discriminative Models
     | `Colin A. Grambow, Lagnajit Pattanaik, William H. Green`
     | :venue:`The Journal of Physical Chemistry Letters, 2020, 11`
     | `D-MPNN, molecular property prediction, reaction properties, template-free, activation energy`
+    
+`Molecule Property Prediction and Classification with Graph Hypernetworks 
+<https://arxiv.org/abs/2002.00240>`_
+    | `Eliya Nachmani, Lior Wolf`
+    | :venue:`arXiv 2002`
+    | `hypernetworks, molecular property prediction, graph neural networks, NMP-Edge network, Invariant Graph Network, Graph Isomorphism Network, QM9, MUTAG, PROTEINS, PTC, NCI1, Open Quantum Materials Database (OQMD)`
 
 Generative Models
 =================
