@@ -289,7 +289,7 @@ Discriminative Models
     | `Github <https://github.com/bioinf-jku/interpretable_ml_drug_discovery>`_
 
 `Analyzing Learned Molecular Representations for Property Prediction
-<https://arxiv.org/abs/1904.01561v4>`_
+<https://arxiv.org/abs/1904.01561v5>`_
     | `Kevin Yang, Kyle Swanson, Wengong Jin, Connor Coley, Philipp Eiden, Hua Gao, Angel Guzman-Perez, Timothy Hopper, Brian Kelley, Miriam Mathea, Andrew Palmer, Volker Settels, Tommi Jaakkola, Klavs Jensen, Regina Barzilay`
     | :venue:`Journal of Chemical Information and Modeling, 2019, 59, 8`
     | `graph neural networks, benchmark results, quantum mechanics, physical chemistry, biophysics, physiology, directional message passing`
