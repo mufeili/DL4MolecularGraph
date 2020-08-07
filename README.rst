@@ -666,3 +666,9 @@ Generative Models
     | `Kevin Yang, Wengong Jin, Kyle Swanson, Regina Barzilay, Tommi Jaakkola`
     | :venue:`ICML 2020`
     | `self-training, property prediction model, data augmentation, iterative generation`
+
+`Learning Graph Models for Template-Free Retrosynthesis 
+<https://arxiv.org/abs/2006.07038>`_
+    | `Vignesh Ram Somnath, Charlotte Bunne, Connor W. Coley, Andreas Krause, Regina Barzilay`
+    | :venue:`ICML 2020 Workshop on Graph Representation Learning and beyond`
+    | `retrosynthesis, graph neural networks, template-free`
