@@ -450,6 +450,12 @@ Discriminative Models
     | :venue:`arXiv 2002`
     | `hypernetworks, molecular property prediction, graph neural networks, NMP-Edge network, Invariant Graph Network, Graph Isomorphism Network, QM9, MUTAG, PROTEINS, PTC, NCI1, Open Quantum Materials Database (OQMD)`
 
+`Molecule Attention Transformer
+<https://arxiv.org/abs/2002.08264>`_
+    | `Łukasz Maziarka, Tomasz Danel, Sławomir Mucha, Krzysztof Rataj, Jacek Tabor, Stanisław Jastrzębski`
+    | :venue:`arXiv 2002`
+    | `molecular property prediction, MoleculeNet, graph neural networks, transformers, pre-training, attention, interpretability, distance-based graph`
+
 Generative Models
 =================
 
