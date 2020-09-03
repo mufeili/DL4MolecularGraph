@@ -454,7 +454,7 @@ Discriminative Models
 <https://arxiv.org/abs/2002.08264>`_
     | `Łukasz Maziarka, Tomasz Danel, Sławomir Mucha, Krzysztof Rataj, Jacek Tabor, Stanisław Jastrzębski`
     | :venue:`arXiv 2002`
-    | `molecular property prediction, MoleculeNet, graph neural networks, transformers, pre-training, attention, interpretability, distance-based graph`
+    | `molecular property prediction, MoleculeNet, graph neural networks, transformers, pre-training, attention, interpretability, distance-based graph, dummy node`
 
 Generative Models
 =================
