@@ -456,6 +456,12 @@ Discriminative Models
     | :venue:`arXiv 2002`
     | `molecular property prediction, MoleculeNet, graph neural networks, transformers, pre-training, attention, interpretability, distance-based graph, dummy node`
 
+`ProteinGCN: Protein model quality assessment using Graph Convolutional Networks
+<https://www.biorxiv.org/content/10.1101/2020.04.06.028266v1>`_
+    | `Soumya Sanyal, Ivan Anishchenko, Anirudh Dagar, David Baker, Partha Talukdar`
+    | :venue:`bioRxiv`
+    | `graph neural networks, quality assessment, atom, residue, Rosetta-300k`
+
 Generative Models
 =================
 
