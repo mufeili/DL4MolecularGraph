@@ -462,6 +462,12 @@ Discriminative Models
     | :venue:`bioRxiv`
     | `graph neural networks, quality assessment, atom, residue, Rosetta-300k`
 
+`Heterogeneous Molecular Graph Neural Networks for Predicting Molecule Properties
+<https://arxiv.org/abs/2009.12710>`_
+    | `Zeren Shui, George Karypis`
+    | :venue:`ICDM 2020`
+    | `graph neural networks, quantum chemistry, QM9, HMGNN, heterogeneous molecular graph, many-body interaction`
+
 Generative Models
 =================
 
