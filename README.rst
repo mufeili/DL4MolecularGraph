@@ -467,6 +467,7 @@ Discriminative Models
     | `Zeren Shui, George Karypis`
     | :venue:`ICDM 2020`
     | `graph neural networks, quantum chemistry, QM9, HMGNN, heterogeneous molecular graph, many-body interaction`
+    | `Github <https://github.com/shuix007/HMGNN>`_
 
 Generative Models
 =================
