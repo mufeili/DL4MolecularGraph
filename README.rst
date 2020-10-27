@@ -468,6 +468,12 @@ Discriminative Models
     | :venue:`ICDM 2020`
     | `graph neural networks, quantum chemistry, QM9, HMGNN, heterogeneous molecular graph, many-body interaction`
     | `Github <https://github.com/shuix007/HMGNN>`_
+    
+`GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data
+<https://arxiv.org/abs/2007.02835>`_
+    | `Yu Rong, Yatao Bian, Tingyang Xu, Weiyang Xie, Ying Wei, Wenbing Huang, Junzhou Huang`
+    | :venue:`NeurIPS 2020`
+    | `graph neural networks, transformers, molecular property prediction, MoleculeNet, self-supervised learning, ZINC, ChEMBL, BBBP, SIDER, ClinTox, BACE, Tox21, ToxCast, FreeSolv, ESOL, Lipo, QM7, QM8`
 
 Generative Models
 =================
