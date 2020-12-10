@@ -481,6 +481,12 @@ Discriminative Models
     | :venue:`Briefings in Bioinformatics, bbaa266`
     | `graph neural networks, MoleculeNet, interpretability, memory optimization`
 
+`Molecular Mechanics-Driven Graph Neural Network with Multiplex Graph for Molecular Structures 
+<https://arxiv.org/abs/2011.07457>`_
+    | `Shuo Zhang, Yang Liu, Lei Xie`
+    | :venue:`NeurIPS 2020 Workshop on Machine Learning for Structural Biology & NeurIPS 2020 Workshop on Machine Learning for Molecules`
+    | `graph neural networks, QM9, PDBBind, computational complexity`
+
 Generative Models
 =================
 
