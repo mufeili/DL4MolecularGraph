@@ -475,6 +475,12 @@ Discriminative Models
     | :venue:`NeurIPS 2020`
     | `graph neural networks, transformers, molecular property prediction, MoleculeNet, self-supervised learning, ZINC, ChEMBL, BBBP, SIDER, ClinTox, BACE, Tox21, ToxCast, FreeSolv, ESOL, Lipo, QM7, QM8`
 
+`TrimNet: learning molecular representation from triplet messages for biomedicine 
+<https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa266/5955940>`_
+    | `Pengyong Li, Yuquan Li, Chang-Yu Hsieh, Shengyu Zhang, Xianggen Liu, Huanxiang Liu, Sen Song, Xiaojun Yao`
+    | :venue:`Briefings in Bioinformatics, bbaa266`
+    | `graph neural networks, MoleculeNet, interpretability, memory optimization`
+
 Generative Models
 =================
 
